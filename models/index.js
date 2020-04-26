@@ -1,6 +1,6 @@
  var mongoose = require('mongoose');
  mongoose.set('debug', true);
- mongoose.connect('mongodb://localhost/todoApp')
+ mongoose.connect('mongodb+srv://holard:oluwababafemi@cluster0-3ybid.mongodb.net/test')
 
  mongoose.Promise = Promise;
 

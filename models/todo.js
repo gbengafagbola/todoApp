@@ -1,5 +1,5 @@
 var mongoose = require('mongoose');
-
+//holard oluwababafemi
 var todoSchema = new mongoose.Schema({
     name: {
         type: String,
